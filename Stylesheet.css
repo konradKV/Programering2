@@ -81,6 +81,19 @@ button:hover {
     background-color: #357ABD;
 }
 
+/* Stiler for bilder */
+.main-image {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.store-image {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
 footer {
     text-align: center;
     padding: 20px;
